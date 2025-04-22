@@ -1,1 +1,0 @@
-<img src="layout/images/404.jpg" width="500" />
